@@ -1,0 +1,40 @@
+UVa 10611 - The Playboy Chimp
+在有序數組中找出小於和大於給定值的最近元素。
+
+
+UVa 10474 - Where is the Marble?
+在有序數組中查找特定元素，基本的二分搜索應用。
+
+------------------------------ 優先練習上面兩題 ------------------------------
+
+
+UVa 10341 - Solve It
+使用二分搜索求解方程，涉及浮點數。
+
+
+UVa 11413 - Fill the Containers
+這題與您之前提到的容器問題類似，是二分答案的應用。
+
+
+UVa 11057 - Exact Sum
+在有序數組中找到和為特定值的兩個數。
+
+
+UVa 11935 - Through the Desert
+使用二分搜索優化解決方案。
+
+
+UVa 12032 - The Monkey and the Oiled Bamboo
+二分搜索找最小滿足條件的值。
+
+
+UVa 1152 - 4 Values whose Sum is 0
+使用二分搜索優化四數和問題。
+
+
+UVa 10706 - Number Sequence
+在特殊序列中使用二分搜索。
+
+
+UVa 11881 - Internal Rate of Return
+使用二分搜索求解財務問題。
